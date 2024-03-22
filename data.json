@@ -1,0 +1,70 @@
+[{
+    "id": 1,
+    "name": "Classic Burger",
+    "price": 10.99,
+    "image": "https://www.unileverfoodsolutions.com.sg/dam/global-ufs/mcos/SEA/calcmenu/recipes/SG-recipes/vegetables-&-vegetable-dishes/%E7%BB%8F%E5%85%B8%E8%8A%9D%E5%A3%AB%E6%B1%89%E5%A0%A1/main-header.jpg",
+    "ingredients": ["Bun", "Beef Patty", "Lettuce", "Tomato", "Onion", "Pickles", "Ketchup", "Mustard"]
+  },
+  {
+    "id": 2,
+    "name": "Cheese Burger",
+    "price": 11.99,
+    "image": "https://s23209.pcdn.co/wp-content/uploads/2022/07/220602_DD_The-Best-Ever-Cheeseburger_267.jpg",
+    "ingredients": ["Bun", "Beef Patty", "Cheese", "Lettuce", "Tomato", "Onion", "Pickles", "Ketchup", "Mustard"]
+  },
+  {
+    "id": 3,
+    "name": "Bacon Burger",
+    "price": 12.99,
+    "image": "https://hips.hearstapps.com/hmg-prod/images/copycat-western-bacon-cheeseburger-2-1649170836.jpg?crop=0.667xw:1.00xh;0.131xw,0&resize=1200:*",
+    "ingredients": ["Bun", "Beef Patty", "Bacon", "Lettuce", "Tomato", "Onion", "Pickles", "Ketchup", "Mustard"]
+  },
+  {
+    "id": 4,
+    "name": "Veggie Burger",
+    "price": 9.99,
+    "image": "https://runningonrealfood.com/wp-content/uploads/2022/01/Best-Vegan-Chickpea-Veggie-Burger-Patties-Recipe.jpg",
+    "ingredients": ["Bun", "Veggie Patty", "Lettuce", "Tomato", "Onion", "Pickles", "Ketchup", "Mustard"]
+  },
+  {
+    "id": 5,
+    "name": "Chicken Burger",
+    "price": 10.99,
+    "image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/08/Crispy-Chicken-Burger-square-FS-4518.jpg",
+    "ingredients": ["Bun", "Chicken Patty", "Lettuce", "Tomato", "Onion", "Pickles", "Ketchup", "Mustard"]
+  },
+  {
+    "id": 6,
+    "name": "Fish Burger",
+    "price": 11.99,
+    "image": "https://www.deliciousmagazine.co.uk/wp-content/uploads/2021/12/960x1200-Fish-Burgers-25.png",
+    "ingredients": ["Bun", "Fish Patty", "Lettuce", "Tomato", "Onion", "Pickles", "Tartar Sauce"]
+  },
+  {
+    "id": 7,
+    "name": "Double Beef Burger",
+    "price": 13.99,
+    "image": "https://www.kitchensanctuary.com/wp-content/uploads/2021/05/Double-Cheeseburger-square-FS-42.jpg",
+    "ingredients": ["Bun", "2x Beef Patty", "Lettuce", "Tomato", "Onion", "Pickles", "Ketchup", "Mustard"]
+  },
+  {
+    "id": 8,
+    "name": "Triple Cheese Burger",
+    "price": 14.99,
+    "image": "https://deenshouston.com/wp-content/uploads/2023/12/Triple-Burger.jpg",
+    "ingredients": ["Bun", "Beef Patty", "3x Cheese", "Lettuce", "Tomato", "Onion", "Pickles", "Ketchup", "Mustard"]
+  },
+  {
+    "id": 9,
+    "name": "Mushroom Swiss Burger",
+    "price": 12.99,
+    "image": "https://d31qjkbvvkyanm.cloudfront.net/images/recipe-images/beefy-mushroom-burgers-detail-8e276ec8.jpg.com/images/burger9.jpg",
+    "ingredients": ["Bun", "Beef Patty", "Swiss Cheese", "Mushrooms", "Lettuce", "Tomato", "Onion", "Pickles", "Ketchup", "Mustard"]
+  },
+  {
+    "id": 10,
+    "name": "BBQ Bacon Burger",
+    "price": 13.99,
+    "image": "https://d31qjkbvvkyanm.cloudfront.net/images/recipe-images/beefy-mushroom-burgers-detail-8e276ec8.jpg",
+    "ingredients": ["Bun", "Beef Patty", "Bacon", "BBQ Sauce", "Lettuce", "Tomato", "Onion", "Pickles"]
+  }]
